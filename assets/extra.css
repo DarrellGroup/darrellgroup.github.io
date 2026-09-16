@@ -14,3 +14,50 @@
 .gsc_a_c {
   display: none;
 }
+
+.alumni-section {
+  margin-bottom: 3em;
+}
+.alumni-section summary {
+  cursor: pointer;
+  list-style: none;
+}
+.alumni-section summary::-webkit-details-marker {
+  display: none;
+}
+.alumni-section summary .menu-category-name::before {
+  content: "▸ ";
+  display: inline-block;
+  transition: transform 0.15s ease-in-out;
+}
+.alumni-section[open] summary .menu-category-name::before {
+  transform: rotate(90deg);
+}
+.alumni-list {
+  columns: 3;
+  -webkit-columns: 3;
+  -moz-columns: 3;
+  margin-top: 1em;
+}
+.alumni-list li {
+  margin-bottom: 0.6em;
+  break-inside: avoid;
+}
+.alumni-list a {
+  color: #2d3c48;
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.15s ease;
+}
+.alumni-list a:hover,
+.alumni-list a:focus {
+  color: #3e8cb7;
+  text-decoration: underline;
+}
+@media (max-width: 768px) {
+  .alumni-list {
+    columns: 1;
+    -webkit-columns: 1;
+    -moz-columns: 1;
+  }
+}
