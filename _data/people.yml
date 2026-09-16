@@ -37,6 +37,12 @@
       research_interest: Generative Modeling
       image: yutong.png
       email: ytongbai [at] gmail.com
+
+    - name: Fiona Ryan
+      website: https://fkryan.github.io/
+      research_interest: Human Behavior Modeling
+      image: fiona.jpg
+      email: fionaryan [at] berkeley.edu
     
 
 - title: PhD Students
@@ -138,7 +144,7 @@
       email: fus [at] berkeley.edu
 
     - name: Jiaxin Ge
-      website: https://jiaxin.ge/
+      website: http://gejiaxin.org/
       research_interest: Vision and Language, Agent, Multi-Modality
       image: jiaxin.jpg
       email: gejiaxin [at] berkeley.edu
@@ -160,3 +166,9 @@
       research_interest: Multimodality, Reasoning, Memory
       image: bingda.jpg
       email: tbd [at] berkeley.edu
+
+    - name: Heekyung (Anne) Lee
+      website: https://kyunnilee.github.io
+      research_interest: Vision & Language, Multimodal Models
+      image: anne.jpg
+      email: annelee [at] berkeley.edu
