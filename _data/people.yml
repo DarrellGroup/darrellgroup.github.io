@@ -26,12 +26,6 @@
       image: david.png
       email: davidchan [at] berkeley.edu
 
-    - name: Amir Bar
-      website: http://amirbar.net/
-      research_interest: Video Understanding
-      image: amir.jpg
-      email: amirb4r [at] gmail.com
-
     - name: Yutong Bai
       website: https://yutongbai.com
       research_interest: Generative Modeling
@@ -47,89 +41,17 @@
 
 - title: PhD Students
   people:
-    - name: Rodolfo Corona
-      website: https://rcorona.github.io/
-      research_interest: Vision & Language
-      image: rudy.jpg
-      email: rcorona [at] berkeley.edu
-
-    - name: Devin Guillory
-      website: http://www.devinguillory.com/
-      research_interest: Learning with limited labels
-      image: devin.jpg
-      email: dguillory [at] berkeley.edu
-
-    - name: Jerome Quenum
-      website: https://people.eecs.berkeley.edu/~jquenum/
-      research_interest: Signal Processing, Computer Vision & Artificial Intelligence
-      image: jeromequenum.jpg
-      email: jquenum [at] berkeley.edu
-
-    - name: Sheng Shen
-      website: https://sincerass.github.io/
-      research_interest: Vision & Language
-      image: sheng.jpg
-      email: sheng.s [at] berkeley.edu
-
-    - name: Ritwik Gupta
-      website: https://ritwikgupta.me/
-      research_interest: Large images, chaotic environments, and public policy
-      image: ritwik.jpg
-      email: ritwikgupta [at] berkeley.edu
-
-    - name: Norman Mu
-      website: http://normanmu.com/
-      research_interest: Self-supervised learning
-      image: norman.jpg
-      email: thenorm [at] berkeley.edu
-
-    - name: Grace Luo
-      website: https://scholar.google.com/citations?user=j88h_roAAAAJ&hl=en&oi=ao
-      research_interest: Vision & Language
-      image: grace.jpg
-      email: graceluo [at] berkeley.edu
-
-    - name: Lisa Dunlap
-      website: https://www.lisabdunlap.com/
-      research_interest: Advisable models for vision and language
-      image: lisa.jpg
-      email: lisabdunlap [at] berkeley.edu
-
-    - name: Baifeng Shi
-      website: https://bfshi.github.io/
-      research_interest: Computational foundation of vision
-      image: baifeng.jpg
-      email: baifeng_shi [at] berkeley.edu
-
     - name: Giscard Biamby
       website: https://scholar.google.com/citations?user=s0Fof5IAAAAJ&hl=en
       research_interest: Vision and Language, Speech
       image: giscardbiamby.jpg
       email: gbiamby [at] berkeley.edu
 
-    - name: Sanjay Subramanian
-      website: https://people.eecs.berkeley.edu/~sanjayss/
-      research_interest: Vision and Language
-      image: sanjay.jpg
-      email: sanjayss [at] berkeley.edu
-
     - name: Kumar Krishna Agrawal
       website: https://people.eecs.berkeley.edu/~kagrawal/
       research_interest: Representation Learning, Systems for Computer Vision x Medicine
       image: kumarkagrawal.jpg
       email: kagrawal [at] berkeley.edu
-
-    - name: XuDong Wang
-      website: https://people.eecs.berkeley.edu/~xdwang/
-      research_interest: Self-supervised Learning, Generative Models
-      image: xudong.png
-      email: xdwang [at] berkeley.edu
-
-    - name: Long (Tony) Lian
-      website: https://tonylian.com/
-      research_interest: Image and Video Generation, Vision & Medical Imaging
-      image: longlian.jpg
-      email: longlian [at] berkeley.edu
 
     - name: Tsung-Han (Patrick) Wu
       website: https://tsunghan-wu.github.io/

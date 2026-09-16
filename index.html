@@ -69,6 +69,22 @@
       {% endif %}
       {% endfor %}
 
+      {% if site.data.alumni.size > 0 %}
+      <section class="profile-content">
+        <details class="alumni-section" id="alumni">
+          <summary>
+            <span class="menu-category-name">Alumni (constructing...)</span>
+          </summary>
+          <ul class="alumni-list">
+            {% assign sorted_alumni = site.data.alumni | sort: 'name' %}
+            {% for person in sorted_alumni %}
+            <li><a href="{{ person.website }}" target="_blank">{{ person.name }}</a></li>
+            {% endfor %}
+          </ul>
+        </details>
+      </section>
+      {% endif %}
+
 
       <footer class="footer">
         <nav class="footer-navigation">
