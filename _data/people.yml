@@ -100,3 +100,9 @@
       research_interest: Computer Vision, Representation Learning, Robotics
       image: berke.jpeg
       email: a.berke [at] berkeley.edu
+
+    - name: Colin Wang
+      website: https://zwcolin.github.io/
+      research_interest: Scalable Multimodal Reasoning and Interaction
+      image: colin.jpg
+      email: zwcolin [at] eecs.berkeley.edu
